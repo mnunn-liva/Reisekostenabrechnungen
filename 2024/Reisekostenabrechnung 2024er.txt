@@ -1,0 +1,24 @@
+Datum      | Betrag | Eingereicht am | Erhalten am
+-----------|--------|----------------|------------
+23.09.2024 | 140,00 | 25.09.2024     | offen
+           |        |                |
+11.09.2024 | 134,20 | 18.09.2024 *3  | offen
+           |        |                |
+29.08.2024 | 140,00 | 10.09.2024 *2  | 20.09.2024
+           |        |                |
+15.08.2024 | 140,00 | 28.08.2024     | 11.09.2024 (zusammen mit Reisekostenabrechnung vom 01.08.2024)
+           |        |                |
+01.08.2024 | 150,80 | 19.08.2024 *1  | 11.09.2024 (zusammen mit Reisekostenabrechnung vom 15.08.2024)
+           |        |                |
+11.07.2024 | 134,20 | 24.07.2024     | 26.07.2024
+           |        |                |
+27.06.2024 | 197,80 | 24.07.2024     | 19.08.2024
+
+
+*3 direkt geschickt
+
+*2 Daniela nicht zurückgemeldet, ob i.O. daher einfach geschickt
+
+*1 von Daniela Glaser-Kummer weitergeleitet
+
+
