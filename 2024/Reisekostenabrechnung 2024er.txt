@@ -1,5 +1,7 @@
 Datum      | Betrag | Eingereicht am | Erhalten am
 -----------|--------|----------------|------------
+16.12.2024 | 128,80 | 19.12.2024 *4  | offen
+           |        |                |
 05.12.2024 | 140,00 | 09.12.2024 *4  | 13.12.2024 (zusammen mit Reisekostenabrechnung vom 11.09.2024)
            |        |                |
 21.11.2024 | 140,00 | 22.11.2024 *4  | 02.12.2024 (zusammen mit Reisekostenabrechnung vom 13.11.2024)
