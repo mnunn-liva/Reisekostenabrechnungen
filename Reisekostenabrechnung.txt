@@ -6,6 +6,9 @@ Hof <-> Frank (A8): 228km
 - Hinfahrt über A81/A8 statt A6/A5 wegen eines Staus.
 - Rückfahrt über A8/A81 statt A5/A6 wegen eines Staus.
 
+- Hinfahrt über A81/A8 statt A6/A5 wegen einer Baustelle.
+- Rückfahrt über A8/A81 statt A5/A6 wegen einer Baustelle.
+
 
 
 
