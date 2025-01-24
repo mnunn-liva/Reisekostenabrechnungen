@@ -3,6 +3,8 @@ Datum      | Betrag | Eingereicht am | Erhalten am
 09.01.2025 | 140,00 | 13.01.2025 *1  | offen
            |        |                |
 15.01.2025 | 140,00 | offen          | offen
+           |        |                |
+23.01.2025 | 140,00 | offen          | offen
 
 
 *1 direkt geschickt
