@@ -1,6 +1,9 @@
 Hof <-> Frank (A5/A6): 210km
 Hof <-> Frank (A8): 228km
 
+Brücknerstr. 3 <-> Büro (A5/A6): 187km
+Brücknerstr. 3 <-> Büro (A8): 204km
+
 - Fahrt ab Wohnsitz.
 
 - Hinfahrt über A81/A8 statt A6/A5 wegen eines Staus.
