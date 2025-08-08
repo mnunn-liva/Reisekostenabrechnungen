@@ -41,5 +41,7 @@ Datum      | Betrag | An Sascha    | An Daniela | Erhalten am
 23.07.2025 | 140,00 | 25.07.2025 * | 28.07.2025 |
            |        |              |            |
 30.07.2025 | 140,00 | 31.07.2025 * | 31.07.2025 | 05.08.2025 (zusammen mit Reisekostenabrechnung vom 09.07.2025, 16.07.2025)
+           |        |              |            |
+06.08.2025 | 140,00 | 08.08.2025   |            |
 
 * An Niklas, da Sascha im Urlaub
