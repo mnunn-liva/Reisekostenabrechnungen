@@ -44,6 +44,6 @@ Datum      | Betrag | An Sascha    | An Daniela | Erhalten am
            |        |              |            |
 06.08.2025 | 140,00 | 08.08.2025   |            |
            |        |              |            |
-12.08.2025 | 140,00 | 14.08.2025   |            |
+12.08.2025 | 140,00 | 14.08.2025   | 15.08.2025 |
 
 * An Niklas, da Sascha im Urlaub
