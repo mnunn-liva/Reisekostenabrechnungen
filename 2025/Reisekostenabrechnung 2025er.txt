@@ -54,5 +54,7 @@ Datum      | Betrag | An Sascha     | An Daniela | Erhalten am
 23.09.2025 | 140,00 | 25.09.2025    | 09.10.2025 |
            |        |               |            |
 01.10.2025 | 140,00 | 02.10.2025    | 09.10.2025 |
+           |        |               |            |
+09.10.2025 | 140,00 | 10.10.2025    |            |
 
 * An Niklas, da Sascha im Urlaub
