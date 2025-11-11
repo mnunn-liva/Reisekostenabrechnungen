@@ -61,6 +61,12 @@ Datum      | Betrag | An Sascha     | An Daniela | Erhalten am
            |        |               |            |
 22.10.2025 | 140,00 | 24.10.2025    | 25.10.2025 | 03.11.2025 (zusammen mit Reisekostenabrechnung vom 23.09.2025, 01.10.2025, 09.10.2025, 15.10.2025)
            |        |               |            |
-29.10.2025 | 140,00 | 01.11.2025    |            |
+29.10.2025 | 140,00 | 01.11.2025    | -          | -
 
-* An Niklas, da Sascha im Urlaub
+*1 direkt geschickt
+*2 An Niklas, da Sascha im Urlaub
+
+
+Datum      | Betrag | An Verteiler  | Erhalten am
+-----------|--------|---------------|------------
+29.10.2025 | 140,00 | 11.11.2025    |
