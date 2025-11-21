@@ -70,3 +70,5 @@ Datum      | Betrag | An Sascha     | An Daniela | Erhalten am
 Datum      | Betrag | An Verteiler  | Erhalten am
 -----------|--------|---------------|------------
 29.10.2025 | 140,00 | 11.11.2025    |
+           |        |               |
+19.11.2025 | 140,00 | 21.11.2025    |
